@@ -1,6 +1,6 @@
-const nombre = prompt("Cual es tu nombre?: ");
-const edad = prompt("Cual es tu edad?: ");
-const lenguaje = prompt("Que lenguaje de programacion estas estudiando?: ");
+let nombre = prompt("Cual es tu nombre?: ");
+let edad = prompt("Cual es tu edad?: ");
+let lenguaje = prompt("Que lenguaje de programacion estas estudiando?: ");
 
 console.log (`Hola ${nombre}, tienes ${edad} años y ya estas aprendiendo ${lenguaje}!`);
 
