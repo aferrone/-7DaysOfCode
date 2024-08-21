@@ -43,7 +43,7 @@ while(inicio !== 5){
     }else if(inicio === 4) {
         multiplicacion()
     } else {
-        alert("Opcion invelida, intente de nuevo")
+        alert("Opcion invalida, intente de nuevo")
     }
 
         inicio = parseInt(prompt(`Que operacion deseas realizar?: 
